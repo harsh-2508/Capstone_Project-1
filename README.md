@@ -1,2 +1,2 @@
-# Capstone_Project-1
+# portfolio-1
 Simple portfolio webpage layout made with html and css.
